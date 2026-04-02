@@ -67,3 +67,12 @@ Everything runs locally using Ollama, so CVs and job descriptions do not need to
 ├── extractor.py
 ├── requirements.txt
 └── README.md
+
+
+<img width="1778" height="697" alt="image" src="https://github.com/user-attachments/assets/7c2d2c69-e803-4797-8f18-ff0faf8ff7fe" />
+
+<img width="1774" height="774" alt="image" src="https://github.com/user-attachments/assets/0422e8c2-9422-4b24-90fe-694c1de54c61" />
+
+<img width="941" height="704" alt="image" src="https://github.com/user-attachments/assets/818e70da-9cec-4063-8817-eae4c61ee211" />
+
+<img width="1416" height="492" alt="image" src="https://github.com/user-attachments/assets/14353eb8-b665-4b11-8368-355ee4fddd2f" />
