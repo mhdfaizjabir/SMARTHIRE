@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import streamlit as st
 
-from updated_extractor import extract_text
+from extractor import extract_text
 from scorer import (
     answer_employer_question,
     generate_interview_questions,
