@@ -6,7 +6,7 @@ import ollama
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from updated_extractor import build_cv_chunks, normalize_whitespace, split_into_sections
+from extractor import build_cv_chunks, normalize_whitespace, split_into_sections
 from retrieval import retrieve_top_k, semantic_similarity_from_chunks
 
 
